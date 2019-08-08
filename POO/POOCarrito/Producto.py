@@ -1,10 +1,3 @@
-#Por Tania Cárdenas
-#Mayo de 2019
-#Versión 5
-
-#Esta clase es el cimiento del programa, permite reconocer el nombre del artículo, su precio, además de facilitar a los clientes su código de barras, marca y número de piezas disponibles para que puedan elegir de manera sencilla entre las opciones que ofrece nuestro establecimiento.
-
-
 class Producto:
 
   #Constructor
